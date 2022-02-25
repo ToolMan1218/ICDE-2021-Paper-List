@@ -26,7 +26,7 @@
 + [Top-k Community Similarity Search in Large Road Network Graphs]
 
 
-## Recommend
+## Recommendation
 ### Full papers
 + [Multi-Facet Recommender Networks with Spherical Optimization]
 + [Attacking Black-box Recommendations via Copying Cross-domain User Profiles]
